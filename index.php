@@ -4,7 +4,7 @@
         <?php require "tmpls/head.php"; ?>
     </head>
     <body>
-    <!-- Задача: Совместная онлайн работа в real-time -->
+    <!-- Задача: Совместная онлайн работа с созданием досок задач -->
         <?php require "tmpls/header.php" ?>
         <?php require "tmpls/form_reg.php"; ?>
         <?php require "tmpls/menu.php"; ?>
